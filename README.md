@@ -5,7 +5,8 @@ I am an Android developer from Saint-Petersburg
 ## About me
 
 - 🔭 I’m currently working on ...
-- 📫 How to reach me: you can send an email alexx.koda@gmail.com or write a message https://t.me/Mamon423 
+- 📫 How to reach me: you can send an email alexx.koda@gmail.com or write a message https://t.me/Mamon423
+- :globe_with_meridians:
 <!--
 **alexxk2/alexxk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
