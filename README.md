@@ -2,6 +2,9 @@
 
 I am an Android developer from Saint-Petersburg
 
+## About me
+
+- 📫 How to reach me: ...
 <!--
 **alexxk2/alexxk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
