@@ -7,6 +7,9 @@ I am an Android developer from Saint-Petersburg
 - 📫 How to reach me: you can send an email alexx.koda@gmail.com or write a message https://t.me/Mamon423
 - 🌐 I can speak English. My level is upper-intermediate
 
+ ## My tech stack 
+ 
+Kotlin, Android, Retrofit, Room, Koin, Navigation Component, Clean Architecture, Glide
 <!--
 **alexxk2/alexxk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
