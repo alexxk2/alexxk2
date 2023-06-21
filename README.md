@@ -1,4 +1,6 @@
-### Hi there, I am Alexandr 👋
+### Hi there 👋
+
+I am an Android developer from Saint-Petersburg
 
 <!--
 **alexxk2/alexxk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
