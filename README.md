@@ -9,7 +9,7 @@ I am an Android developer from Saint-Petersburg
 
  ## My tech stack 
  
-Kotlin, Android, Retrofit, Room, Koin, Navigation Component, Clean Architecture, Glide
+Kotlin, Android, Retrofit, Room, Koin, Navigation Component, Clean Architecture, Glide, Hilt, Coroutines
 <!--
 **alexxk2/alexxk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
